@@ -1,0 +1,3 @@
+# chatbot_academic
+
+# Ce repository Git est dédié au développement et à la maintenance du chatbot académique conçu pour répondre aux questions liées à l'inscription à l'université. Le chatbot vise à offrir un moyen convivial, automatisé et informatif pour aider les étudiants potentiels à naviguer à travers le processus d'inscription, les exigences d'inscription, les formulaires nécessaires, les dates limites, et d'autres questions courantes liées à l'inscription à l'université ().
